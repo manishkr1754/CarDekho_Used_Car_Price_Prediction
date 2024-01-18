@@ -39,7 +39,7 @@ To build suitable Machine Learning Model for Used Car Price Prediction.
 
 ## Benefits:
 The benefits of this solution include:
-1. Sellers will be able to more accurately price their cars which will help them to sell their cars faster and for a higher price.\
+1. Sellers will be able to more accurately price their cars which will help them to sell their cars faster and for a higher price.
 2. Buyers will be able to find cars that are priced more competitively.
 3. The overall used car market in India will become more efficient.
 
